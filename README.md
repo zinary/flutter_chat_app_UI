@@ -1,4 +1,4 @@
-# A chat application made using flutter
+# A chat application UI made using flutter
 
 ## Screenshots
 
